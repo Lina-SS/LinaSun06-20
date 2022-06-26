@@ -1,0 +1,30 @@
+h1 {
+  color: rgb(115, 130, 217);
+}
+h2 {
+  color: darkorange;
+}
+table {
+  width: 600px;
+}
+th {
+  text-align: center;
+}
+td {
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+}
+.blank {
+  border-radius: 20px;
+  width: 300px;
+  height: 30px;
+}
